@@ -1,8 +1,6 @@
-About
 Lung cancer is a type of cancer that begins in the lungs. Lungs are two spongy organs in our chest that take in oxygen when we inhale and release carbon dioxide when we exhale. Lung cancer is the leading cause of cancer deaths worldwide.
 People who smoke have the greatest risk of lung cancer, though lung cancer can also occur in people who have never smoked. The risk of lung cancer increases with the length of time and number of cigarettes someone's smoked. If someone quits smoking, even after smoking for many years, he/she can significantly reduce the chances of developing lung cancer.
 ------------------------------------
-Data types
 GENDER : M [Male], F [Female]
 AGE : Age of patients
 SMOKING : 2 [Yes], 1 [No]
